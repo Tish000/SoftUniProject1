@@ -1,1 +1,1 @@
-# SoftUniProject1
+Demo project for SoftUni in GitHub
